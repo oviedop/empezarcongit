@@ -1,6 +1,6 @@
 # Título 1
 
-## Sección 1 Introducción
+## Sección 1 Marco teórico 
 
 Esta es la primer línea de texto de la rama 1, y ya no termina aquí. Ahora termina aquí.
 
